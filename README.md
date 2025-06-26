@@ -2,4 +2,4 @@
 
 Desain dibuat menggunakan Figma.
 
-Lihat detail desain di [Figma]([https://www.figma.com/file/xxxxx/Project-Name](https://www.figma.com/design/BxXYiTG688RRW3SErjGBh7/UI-UX?t=vamJt25RMFKgib6i-1))
+Lihat detail desain di [Figma](https://www.figma.com/design/BxXYiTG688RRW3SErjGBh7/UI-UX?t=vamJt25RMFKgib6i-1)
